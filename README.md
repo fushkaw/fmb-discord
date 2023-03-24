@@ -15,6 +15,8 @@ git clone https://github.com/fushkaw/fmb-discord
 
 В файле config.py в строчке 'token' замените значение token на токен вашего бота
 
+
+
 Дальше скачайте нужные библиотеки
 ```bash
 pip install -r requirements.txt
