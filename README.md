@@ -8,7 +8,7 @@
 [![Support Server](https://media.discordapp.net/attachments/999665054540640317/1088732963652522034/d3ccc508c54a1530.png?width=512&height=256)](https://discord.gg/jr76tq3Q9j)
 
 ## 》Создание приложения и токен
-Для создания приложения перейдите на сайт [Discord Developer Portal](https://discord.com/developers/applications)
+Для создания приложения перейдите на сайт [Discord Developer Portal](https://discord.com/developers/applications) <br/>
 После этого нажмите на New Application
 В открывшемся окне пишем название приложения и нажимаем Create
 На первой же вкладке мы видим строчку APPLICATION ID которую мы будем использовать в файде config.py (об этом позже)
